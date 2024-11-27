@@ -46,3 +46,7 @@ The align_and_color_with_selection.py script is a PyMOL plugin designed to strea
 4. Differing residues will be colored and selections (model1_diff_residues, model2_diff_residues) will be created for easy reference.
 
 This plugin enhances structural analysis workflows by combining alignment, visualization, and residue selection into a single, efficient process. It is especially useful for identifying functional or structural differences in protein complexes or homologous structures.
+
+Example of the result:
+
+![align and color with selection](https://github.com/user-attachments/assets/f23baa77-8875-4267-8f64-0ad75c407728)
